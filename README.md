@@ -5,7 +5,4 @@
  
  < 📷 Also i love to make Photos and Play video games >
 
-<!---
-Nico-T-Ihle/Nico-T-Ihle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
