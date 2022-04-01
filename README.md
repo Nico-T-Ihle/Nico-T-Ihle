@@ -1,5 +1,5 @@
 ##  Hi, I’m @Nico-T-Ihle
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![](https://github.com/Nico-T-Ihle/HeaderImage/blob/main/header_1.png)
 ##
 About me 
 - 📖 I’m interested in ReactJS/Native, PHP, Java, Swift 
