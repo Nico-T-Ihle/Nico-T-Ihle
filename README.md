@@ -2,10 +2,7 @@
 ![](https://github.com/Nico-T-Ihle/HeaderImage/blob/main/header_1.png)
 ##
 ### About me 
-- 
-- 📖 I’m interested in Swift, Kotlin
-- 👨‍💻 I’m currently learning Python
-- 📨 How to reach me over my Website or above my Social-Media
+- 📖 I’m interested in almost everything :)
 ##
 ### Skills
 
