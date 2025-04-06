@@ -3,7 +3,6 @@
 ##
 ### About me 
 - 📖 I’m interested in almost everything :)
-- focus on swift and robotic 👀
 ##
 ### Skills
 
